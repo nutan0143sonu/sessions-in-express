@@ -1,0 +1,30 @@
+[
+   {
+      "name": "Tuhin Roy",
+      "email": "roy_tuhin@outlook.com",
+      "pass": "*rajan1996",
+      "cid": "BCT2015002",
+      "roll": "1510313002"
+   },
+   {
+      "name": "Demo Node",
+      "email": "dem@gmail.com",
+      "pass": "*dem983gfqdun",
+      "cid": "CS2015002",
+      "roll": "15683893030"
+   },
+   {
+      "name": "Jon Snow",
+      "email": "j@gmail.com",
+      "pass": "*jon1996",
+      "cid": "CS3402981",
+      "roll": "8719739101"
+   },
+   {
+      "name": "Jack Parolta",
+      "email": "j@gmail.com",
+      "pass": "*j1996",
+      "cid": "cs4529202",
+      "roll": "135187369"
+   }
+]
